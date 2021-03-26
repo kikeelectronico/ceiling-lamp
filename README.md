@@ -1,8 +1,7 @@
 # Celling lamp
 ![Version](https://img.shields.io/badge/version-v2.0-orange.svg)
-![Progress](http://progressed.io/bar/100)
 
-It is a relay controlled by an ESP8266 and a push button. It is powered by the main AC.
+An AC output controlled by an ESP8266 and powered by AC main
 
 
 ### Firmwares
