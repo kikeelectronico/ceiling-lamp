@@ -1,7 +1,7 @@
 View this project on [CADLAB.io](https://cadlab.io/project/24088). 
 
 # Celling lamp
-![Version](https://img.shields.io/badge/version-v2.0-orange.svg)
+![Version](https://img.shields.io/badge/version-v3-orange.svg)
 
 An AC output controlled by an ESP8266 and powered by AC main
 
